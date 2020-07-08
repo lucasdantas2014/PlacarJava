@@ -2,9 +2,9 @@
 
 ## Descrição
 
-Um software de placar para futsal com contador de gols (pontos), cronometro, contador de faltas, Cronometro para tempo de expulsão
+Um software de placar para futsal com contador de gols (pontos), cronometro, contador de faltas, Cronometro para tempo de expulsão, espaço para inserir nome e emblema dos times
 
-##Instruções:
+## Instruções:
 
 ### Importante
 

@@ -1,16 +1,20 @@
-# PlacarJava
+# Placar Java
 
-Instruções:
+## Descrição
 
-## Importante
+Um software de placar para futsal com contador de gols (pontos), cronometro, contador de faltas, Cronometro para tempo de expulsão
+
+##Instruções:
+
+### Importante
 
 A tecla "tab" permite alternar entre os componentes :inserior o nome do time1, inserir nome do time2, quadrado cinza.
 a parte cinza deverá ser clickada para poder as teclas ganharem suas funções, sendo necessario o clicke nessa região para que ao apertar algum botão as funcoes possam acontecer, ou seja caso você não click ou não vá até lá través do tab as teclas com suas respectivas funções não funcionarão,
 
-## RECOMENDAÇÔES
+### RECOMENDAÇÔES
 Deixar em tela cheia, por mais que ele não preench ela por completo, as imagens ficaram menos distorcidas.
 
-## teclas
+### teclas
 
 --------------------|-----------------------------------------------------------|
 
@@ -52,7 +56,7 @@ m		    |  Zerar Cronometro do jogo					|
 
 --------------------------------------------------------------------------------|
 
-## OBS:
+### OBS:
 
 *click na imagen para selecionar outra
 

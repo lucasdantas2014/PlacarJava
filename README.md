@@ -11,26 +11,47 @@ a parte cinza deverá ser clickada para poder as teclas ganharem suas funções,
 Deixar em tela cheia, por mais que ele não preench ela por completo, as imagens ficaram menos distorcidas.
 
 ## teclas
+
 --------------------|-----------------------------------------------------------|
+
 seta para cima      |   +1 gol time2(vermelho)					|
+
 seta para baixo	    |   -1 gol time2(vermelho)					|
+
 seta para direita   |   -1 falta time2(vermelho)				|
+
 seta para esquerda  | 	+1 falta time2(vermelho)				|
+
 ====================|===========================================================|
+
 w		    |  +1 gol time1(azul)					|	
+
 s		    |  -1 gol time1(azul)						|
+
 d		    |  +1 falta time1(azul)					|
+
 a		    |  +1 falta time1(azul)					|
+
 ================================================================================|
+
 l		    |  Iniciar Cronometro de Expulsão time2(vermelho)		|
+
 k		    |  Zerar Cronometro de Expulsão time2(vermelho)		|
+
 ================================================================================|
+
 c		    |  Iniciar Cronometro de Expulsão time1(vermelho)		|
+
 x		    |  Zerar Cronometro de Expulsão time1(vermelho)		|
+
 ================================================================================|
+
 Space(espaço)	    |  Iniciar Cronometro do jogo					|
+
 m		    |  Zerar Cronometro do jogo					|
+
 --------------------------------------------------------------------------------|
+
 ## OBS:
 
 *click na imagen para selecionar outra
